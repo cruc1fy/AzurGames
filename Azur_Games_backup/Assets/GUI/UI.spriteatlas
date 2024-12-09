@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 525796bac45d6264e82d2fae212bb920, type: 3}
+    totalSpriteSurfaceArea: 260166
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a177d480a90611b4f9511c31d9451864, type: 3}
+  - {fileID: 21300000, guid: 68c808c26b5df1a4daf68365860b6e0c, type: 3}
+  - {fileID: 21300000, guid: c871960331a25254bbf986a0c4b739fa, type: 3}
+  - {fileID: 21300000, guid: 6073cc959a5c86449ad9aebdfd89c57f, type: 3}
+  - {fileID: 21300000, guid: 6de627d5842c24a4d83282aa930b2db8, type: 3}
+  - {fileID: 21300000, guid: f43848f5989b8ee4697d745e186bce95, type: 3}
+  - {fileID: 21300000, guid: 656e8cc6667319841ace31d04e752a9d, type: 3}
+  - {fileID: 21300000, guid: a7e26ac7e6f25f042b0ab3b3912f172c, type: 3}
+  - {fileID: 21300000, guid: 3dc6e9b82134ea045a06bdacebb43491, type: 3}
+  - {fileID: 21300000, guid: 7f00d0e872a12a246b653e9c28ccec77, type: 3}
+  - {fileID: 21300000, guid: 01a82ae9ba90f8849ab9d662a2f21ce7, type: 3}
+  - {fileID: 21300000, guid: 3648afcaf163de647a975c98a7c98e91, type: 3}
+  - {fileID: 21300000, guid: 4b2c59fa6b27155449038922a2fc68e3, type: 3}
+  - {fileID: 21300000, guid: 25f4875b143185b47a03905ceb3598d3, type: 3}
+  - {fileID: 21300000, guid: 99ec356b9ec68584db38ddb02f9fa202, type: 3}
+  - {fileID: 21300000, guid: 74e1997c60f578e4884e95bcdacb75f1, type: 3}
+  - {fileID: 21300000, guid: 0530dcac636c15f42b11187714eca532, type: 3}
+  - {fileID: 21300000, guid: 80a07c4d69df79d428d0402bc91f9c0b, type: 3}
+  - {fileID: 21300000, guid: fdafafed5e1e3f347b7aa8447d89a745, type: 3}
+  - {fileID: 21300000, guid: 0a642f2e48d2e6341b248a05ee34b03b, type: 3}
+  - {fileID: 21300000, guid: f085a6bf238ada34a94c946da7cf7d47, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - confetti_3
+  - point_level_on
+  - icon_settings
+  - icon_vibration_on
+  - cross_close_plane
+  - point_level_off
+  - CircleSprite
+  - skip_buttom
+  - level_subplane
+  - square
+  - icon_no_ads
+  - icon_vibration_off
+  - confetti_1
+  - icon_cup
+  - ok_plane
+  - icon_subplane
+  - hand_cursor
+  - finish
+  - purchase_icon
+  - cross_close_cross
+  - confetti_2
+  m_Tag: UI
+  m_IsVariant: 0

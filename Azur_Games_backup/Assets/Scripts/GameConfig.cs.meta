@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 9d96abef94eef654c8fdc06ebf0f6f0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - apple: {fileID: -4495896826870840687, guid: 6222b18b7af417548b8a47708c7d687b,
+      type: 3}
+  - orange: {fileID: 3742435555191383655, guid: 577b31f97cd2be546aefa4c6871f3e45,
+      type: 3}
+  - lime: {fileID: 5605552042718360434, guid: 9c8b6f9e40858fd4a9390e8020e67dd2, type: 3}
+  - water: {fileID: -130527556132898260, guid: f9e2f9bc6a8bd4b4e8a52794e0640062, type: 3}
+  - ball: {instanceID: 0}
+  - ballBig: {instanceID: 0}
+  - ballMid: {instanceID: 0}
+  - labMaterial: {instanceID: 0}
+  - ballMaterial: {instanceID: 0}
+  - ballMiddleMaterial: {instanceID: 0}
+  - ballBigMaterial: {instanceID: 0}
+  - capMaterial: {instanceID: 0}
+  - capOutMaterial: {instanceID: 0}
+  - tubeMaterial: {instanceID: 0}
+  - labPhysMat: {instanceID: 0}
+  - music: {instanceID: 0}
+  - rotationSound: {instanceID: 0}
+  - ballSound: {instanceID: 0}
+  - buttonSound: {instanceID: 0}
+  - finishSound: {instanceID: 0}
+  - ballContactSound: {instanceID: 0}
+  - wallContactSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

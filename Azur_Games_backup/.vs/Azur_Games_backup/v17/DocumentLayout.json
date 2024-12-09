@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|c:\\users\\\u043A\u043E\u0441\u0442\u044F\\azur_games_backup\\azurgamesproject\\azur_games_backup\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\soundsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\fireworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fireworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\fireworkssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fireworkssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\skipmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\skipmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C378A2-F3B7-A34C-6250-AD6D80F93F81}|Assembly-CSharp-Editor.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\editor\\nextleveleditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C378A2-F3B7-A34C-6250-AD6D80F93F81}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\nextleveleditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\dynamicscrolllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dynamicscrolllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\adsanaliticsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\adsanaliticsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\appmetrica\\appmetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\appmetrica\\appmetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\finishmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\flexiblemeshcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flexiblemeshcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\assets\\scripts\\scorepopupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CF9A7A-741B-FB5E-A75F-4D40B8684B5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorepopupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FlexibleMeshCollider.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\FlexibleMeshCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlexibleMeshCollider.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\FlexibleMeshCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlexibleMeshCollider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:46:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FinishMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\FinishMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishMenu.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\FinishMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishMenu.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwJcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:33:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppMetrica.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\AppMetrica\\AppMetrica.cs",
+              "RelativeDocumentMoniker": "Assets\\AppMetrica\\AppMetrica.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\AppMetrica\\AppMetrica.cs",
+              "RelativeToolTip": "Assets\\AppMetrica\\AppMetrica.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAGwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:19:39.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdsAnaliticsManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\AdsAnaliticsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AdsAnaliticsManager.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\AdsAnaliticsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AdsAnaliticsManager.cs",
+              "ViewState": "AgIAAAMCAAAAAAAAAAAIwBgCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:19:33.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Labyrinth.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Labyrinth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Labyrinth.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Labyrinth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Labyrinth.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwH8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:33:40.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DynamicScrollList.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\DynamicScrollList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DynamicScrollList.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\DynamicScrollList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DynamicScrollList.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:03:33.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menuController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\menuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\menuController.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\menuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\menuController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:16:13.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\GameMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameMenu.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\GameMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameMenu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:06:27.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Level.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:17:04.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NextLevelEditor.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Editor\\NextLevelEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\NextLevelEditor.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Editor\\NextLevelEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\NextLevelEditor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:56:41.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SkipMenu.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\SkipMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SkipMenu.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\SkipMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SkipMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T23:38:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScorePopupSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\ScorePopupSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScorePopupSystem.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\ScorePopupSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScorePopupSystem.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwE8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:42:01.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FireworksSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\FireworksSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FireworksSystem.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\FireworksSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FireworksSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:26:49.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fireworks.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Fireworks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fireworks.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Fireworks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fireworks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:26:36.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Exit.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Exit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:43:55.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoundSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\SoundSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundSystem.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\SoundSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundSystem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:23:36.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Fruit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Fruit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fruit.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:55:38.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerState.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerState.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwKAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:43:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\GameConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameConfig.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:56:21.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u0441\u0442\u044F\\Azur_Games_backup\\AzurGamesProject\\Azur_Games_backup\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:59:07.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

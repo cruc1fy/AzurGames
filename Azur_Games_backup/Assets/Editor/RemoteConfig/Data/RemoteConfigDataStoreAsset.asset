@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"32d4918e-dfdf-46d0-9e11-544f6c38f2e9\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"maxApples\",\r\n      \"type\": \"int\",\r\n
+    \     \"value\": 450\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"b6f1481f-dc4d-45d3-b255-6aba5435715b\"\r\n    },\r\n    \"rs\": {\r\n      \"key\":
+    \"hasDifferentFruits\",\r\n      \"type\": \"bool\",\r\n      \"value\": false\r\n
+    \   }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"77a68c4e-cf98-466c-a822-fb8424948437\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"fruitSize1\",\r\n      \"type\": \"float\",\r\n
+    \     \"value\": 0.5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"a613532d-7aa9-42dd-95f7-d88a91207cdc\"\r\n    },\r\n    \"rs\": {\r\n      \"key\":
+    \"fruitSize2\",\r\n      \"type\": \"float\",\r\n      \"value\": 2.66666675\r\n
+    \   }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"36585a63-5111-4c14-80e1-8e6c82471c1a\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"fruitSize3\",\r\n      \"type\": \"float\",\r\n
+    \     \"value\": 2.66666675\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n
+    \     \"entityId\": \"fb02c355-2da6-48d2-83df-966667fd2359\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"emit_digits\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9d5a9c92-9322-41ef-bea6-56dbaf54cbd9\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"fruitSizePenek1\",\r\n      \"type\":
+    \"float\",\r\n      \"value\": 1.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"dc610c45-c62f-4d64-a9f1-1a96afdff703\"\r\n    },\r\n
+    \   \"rs\": {\r\n      \"key\": \"fruitSizePenek2\",\r\n      \"type\": \"float\",\r\n
+    \     \"value\": 4.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"c3f9695b-e51e-461e-8d9f-0dccc540f0ea\"\r\n    },\r\n    \"rs\": {\r\n      \"key\":
+    \"fruitSizePenek3\",\r\n      \"type\": \"float\",\r\n      \"value\": 4.0\r\n
+    \   }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"32d4918e-dfdf-46d0-9e11-544f6c38f2e9\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"maxApples\",\r\n      \"type\": \"int\",\r\n
+    \     \"value\": 450\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"b6f1481f-dc4d-45d3-b255-6aba5435715b\"\r\n    },\r\n    \"rs\": {\r\n      \"key\":
+    \"hasDifferentFruits\",\r\n      \"type\": \"bool\",\r\n      \"value\": false\r\n
+    \   }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"77a68c4e-cf98-466c-a822-fb8424948437\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"fruitSize1\",\r\n      \"type\": \"float\",\r\n
+    \     \"value\": 0.5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"a613532d-7aa9-42dd-95f7-d88a91207cdc\"\r\n    },\r\n    \"rs\": {\r\n      \"key\":
+    \"fruitSize2\",\r\n      \"type\": \"float\",\r\n      \"value\": 2.66666675\r\n
+    \   }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"36585a63-5111-4c14-80e1-8e6c82471c1a\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"fruitSize3\",\r\n      \"type\": \"float\",\r\n
+    \     \"value\": 2.66666675\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n
+    \     \"entityId\": \"fb02c355-2da6-48d2-83df-966667fd2359\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"emit_digits\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9d5a9c92-9322-41ef-bea6-56dbaf54cbd9\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"fruitSizePenek1\",\r\n      \"type\":
+    \"float\",\r\n      \"value\": 1.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"dc610c45-c62f-4d64-a9f1-1a96afdff703\"\r\n    },\r\n
+    \   \"rs\": {\r\n      \"key\": \"fruitSizePenek2\",\r\n      \"type\": \"float\",\r\n
+    \     \"value\": 4.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"c3f9695b-e51e-461e-8d9f-0dccc540f0ea\"\r\n    },\r\n    \"rs\": {\r\n      \"key\":
+    \"fruitSizePenek3\",\r\n      \"type\": \"float\",\r\n      \"value\": 4.0\r\n
+    \   }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"1f25ba61-abec-448e-b67d-49f8fd4d01f3\",\r\n
+    \   \"name\": \"production\",\r\n    \"id\": \"bfb3b0d4-bc30-4cf7-b4ba-8e13634813f2\",\r\n
+    \   \"isDefault\": true,\r\n    \"createdAt\": \"2024-12-03T08:23:56Z\",\r\n    \"updatedAt\":
+    \"2024-12-03T08:23:56Z\"\r\n  }\r\n]"

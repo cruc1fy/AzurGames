@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 630b6f8c520ae8c479ee5355ef56b7fe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object7608
+    100004: Object7616
+    100006: Object7620
+    100008: Object7625
+    100010: Object7628
+    100012: Object7630
+    100014: Object7639
+    100016: Object7643
+    100018: Object7648
+    100020: Object7656
+    100022: Object7666
+    100024: Object7668
+    100026: Object7670
+    100028: Object7672
+    100030: Object7673
+    100032: Object7674
+    100034: Object7675
+    100036: Object7681
+    100038: Object7683
+    100040: Object7717
+    100042: Object6707
+    100044: Object6735
+    100046: Object6753
+    100048: Object6765
+    100050: Object6767
+    100052: Object6803
+    100054: Particle View 001
+    100056: Object6922
+    100058: Object6923
+    100060: Object6924
+    100062: Object6925
+    100064: Object6926
+    100066: Object6927
+    400000: //RootNode
+    400002: Object7608
+    400004: Object7616
+    400006: Object7620
+    400008: Object7625
+    400010: Object7628
+    400012: Object7630
+    400014: Object7639
+    400016: Object7643
+    400018: Object7648
+    400020: Object7656
+    400022: Object7666
+    400024: Object7668
+    400026: Object7670
+    400028: Object7672
+    400030: Object7673
+    400032: Object7674
+    400034: Object7675
+    400036: Object7681
+    400038: Object7683
+    400040: Object7717
+    400042: Object6707
+    400044: Object6735
+    400046: Object6753
+    400048: Object6765
+    400050: Object6767
+    400052: Object6803
+    400054: Particle View 001
+    400056: Object6922
+    400058: Object6923
+    400060: Object6924
+    400062: Object6925
+    400064: Object6926
+    400066: Object6927
+    2100000: No Name
+    2300000: Object7608
+    2300002: Object7616
+    2300004: Object7620
+    2300006: Object7625
+    2300008: Object7628
+    2300010: Object7630
+    2300012: Object7639
+    2300014: Object7643
+    2300016: Object7648
+    2300018: Object7656
+    2300020: Object7666
+    2300022: Object7668
+    2300024: Object7670
+    2300026: Object7672
+    2300028: Object7673
+    2300030: Object7674
+    2300032: Object7675
+    2300034: Object7681
+    2300036: Object7683
+    2300038: Object6707
+    2300040: Object6735
+    2300042: Object6753
+    2300044: Object6765
+    2300046: Object6767
+    2300048: Object6803
+    2300050: Object6922
+    2300052: Object6923
+    2300054: Object6924
+    2300056: Object6925
+    2300058: Object6926
+    2300060: Object6927
+    3300000: Object7608
+    3300002: Object7616
+    3300004: Object7620
+    3300006: Object7625
+    3300008: Object7628
+    3300010: Object7630
+    3300012: Object7639
+    3300014: Object7643
+    3300016: Object7648
+    3300018: Object7656
+    3300020: Object7666
+    3300022: Object7668
+    3300024: Object7670
+    3300026: Object7672
+    3300028: Object7673
+    3300030: Object7674
+    3300032: Object7675
+    3300034: Object7681
+    3300036: Object7683
+    3300038: Object6707
+    3300040: Object6735
+    3300042: Object6753
+    3300044: Object6765
+    3300046: Object6767
+    3300048: Object6803
+    3300050: Object6922
+    3300052: Object6923
+    3300054: Object6924
+    3300056: Object6925
+    3300058: Object6926
+    3300060: Object6927
+    4300000: Object7608
+    4300002: Object7616
+    4300004: Object7620
+    4300006: Object7625
+    4300008: Object7628
+    4300010: Object7630
+    4300012: Object7639
+    4300014: Object7643
+    4300016: Object7648
+    4300018: Object7656
+    4300020: Object7666
+    4300022: Object7668
+    4300024: Object7670
+    4300026: Object7672
+    4300028: Object7673
+    4300030: Object7674
+    4300032: Object7675
+    4300034: Object7681
+    4300036: Object7683
+    4300038: Object6707
+    4300040: Object6735
+    4300042: Object6753
+    4300044: Object6765
+    4300046: Object6767
+    4300048: Object6803
+    4300050: Object6922
+    4300052: Object6923
+    4300054: Object6924
+    4300056: Object6925
+    4300058: Object6926
+    4300060: Object6927
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 82b388ece78dc5d41a20116a48cd24f5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

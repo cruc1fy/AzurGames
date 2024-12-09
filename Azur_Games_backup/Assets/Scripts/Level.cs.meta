@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: a2eb501219a53cd45ac3187d970ab4c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerState: {fileID: 11400000, guid: 21891b434fbbb88459b66e2990993323, type: 2}
+  - gameConfig: {fileID: 11400000, guid: 8930f998794edbc4e99b510a2e6df567, type: 2}
+  - penek: {fileID: 7756501477376888230, guid: d9d0ee1b001879842a6ad6dfedf4ad1d, type: 3}
+  - levelText: {instanceID: 0}
+  - backgroundImage: {instanceID: 0}
+  - gradientBackground: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - exitTubePrefab: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - board1: {instanceID: 0}
+  - board2: {instanceID: 0}
+  - NoAdsButton: {instanceID: 0}
+  - BannerBack: {instanceID: 0}
+  - loonka: {instanceID: 0}
+  - SkipButton: {instanceID: 0}
+  - ballsCountText: {instanceID: 0}
+  - gameMenu: {instanceID: 0}
+  - cam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

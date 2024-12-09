@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 127c08cf5e8fce443a0fc345a1cd728b, type: 3}
+    totalSpriteSurfaceArea: 1022848
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 58dd723046072fa41b7639ec1a04214d, type: 3}
+  - {fileID: 21300000, guid: 77dc2850dcf2b9d42a5b0a5eb18c235a, type: 3}
+  - {fileID: 21300000, guid: a2812db308e13b34abdb27cf4efd11b5, type: 3}
+  - {fileID: 21300000, guid: f92f3e74f0334674388eeabf89411ec3, type: 3}
+  - {fileID: 21300000, guid: 4884ee856c98f2b4fa852ba2e97dc46e, type: 3}
+  - {fileID: 21300000, guid: 74097ec51b363cc4d9c0a55cf7398f3a, type: 3}
+  - {fileID: 21300000, guid: 8eac1e178af57e342ad7b5e33edf63c0, type: 3}
+  - {fileID: 21300000, guid: e8527f17328097e49b311dd200ad78bb, type: 3}
+  - {fileID: 21300000, guid: 915cae775728f5e4bb615adc932d0cb0, type: 3}
+  - {fileID: 21300000, guid: 989e62975774bb34d990f0d919eab463, type: 3}
+  - {fileID: 21300000, guid: a3e357595eb43d547afeb4d752f00a5f, type: 3}
+  - {fileID: 21300000, guid: 5f5ef91a7ff783641be206edc6f2a313, type: 3}
+  - {fileID: 21300000, guid: 72e1083af4e7b114b888e5f1b3beffb7, type: 3}
+  - {fileID: 21300000, guid: b9faacda8dbfddb4aab575f871ced2a8, type: 3}
+  - {fileID: 21300000, guid: cec04f5b7d0101b4e967789d83ae5241, type: 3}
+  - {fileID: 21300000, guid: 52bac56cf8e011c42a183430fec8f35f, type: 3}
+  - {fileID: 21300000, guid: f24d788c595a5224c856607030eee529, type: 3}
+  - {fileID: 21300000, guid: b35bfbfc95bfe394295303a6a77a9788, type: 3}
+  - {fileID: 21300000, guid: 73721fdecafc12a48868e4c16e2c13f9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SoundOffButton
+  - ADSButton
+  - ButtonCircle
+  - WhiteDotEmpty
+  - bg_balls
+  - VibroOffButton
+  - icon_arrow
+  - btn_ads
+  - SkipButton
+  - btn_green
+  - SettingsButton
+  - icon_ads
+  - SoundOnButton
+  - RestorButton
+  - Finish
+  - FINGER
+  - ButtonHalfCircle
+  - VibroOnButton
+  - WhiteDotFull
+  m_Tag: Sprites
+  m_IsVariant: 0

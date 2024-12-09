@@ -1,0 +1,320 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d96abef94eef654c8fdc06ebf0f6f0f, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  labyrinthsStr:
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 25.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 26.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 27.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 28.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 29.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 30.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 31.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial 32.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_apple.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_5.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_7.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen_8.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_5.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_7.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_gen2_8.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_orange.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_bb_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_bb_2.prefab
+  - Assets/Resources/Prefabs/Boss/Labyrinth_boss_2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_8.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_9.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tutorial_10.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 21.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 22.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 23.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_2.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_5.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 5.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_watermeloon.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_7.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_8.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 7.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 8.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_9.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_10.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 9.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 10.prefab
+  - Assets/Resources/Prefabs/Boss/Labyrinth_boss_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_11.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_12.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_13.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 12.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 13.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_berry.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 14.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 15.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 16.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_14.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_15.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_5.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 17.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 18.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 19.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_7.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_8.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_peach.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_16.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_17.prefab
+  - Assets/Resources/Prefabs/Labyrinth_sq_18.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_9.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_10.prefab
+  - Assets/Resources/Prefabs/Boss/Labyrinth_boss_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 20.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 21.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_5.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_1.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_2.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_3.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_12.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_13.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_14.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_4.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_5.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 22.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 23.prefab
+  - Assets/Resources/Prefabs/Labyrinth_base 24.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_15.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_16.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_17.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_7.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_8.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_6.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_9.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_18.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_19.prefab
+  - Assets/Resources/Prefabs/Labyrinth_tri_20.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_10.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_11.prefab
+  - Assets/Resources/Prefabs/Labyrinth_hex_12.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_7.prefab
+  fanLabyrinthsStr:
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_apple.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_berry.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_orange.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_peach.prefab
+  - Assets/Resources/Prefabs/Fruits/Labyrinth_watermeloon.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_1.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_2.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_3.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_4.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_5.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_6.prefab
+  - Assets/Resources/Prefabs/Fun/Labyrinth_fun_7.prefab
+  apple: {fileID: 6993086940173590060, guid: 7594ed9749290e24fbcfc410efc95337, type: 3}
+  orange: {fileID: 629890906574389941, guid: a0dfe58f9c605b34db89884960097076, type: 3}
+  lime: {fileID: 8871690431457585583, guid: 8e2fdf08e05586847a7d78374ffc6edd, type: 3}
+  ball: {fileID: 4803738439568453723, guid: ef7f45f562fed4940b8d891a8ea3dc88, type: 3}
+  ballBig: {fileID: 4803738439568453723, guid: b7516d6d81dd31c44af5ec7ddbb50a19, type: 3}
+  ballMid: {fileID: 4803738439568453723, guid: 6e1e1ab17a5d0ca49aabbbb775f4175e, type: 3}
+  wavesCount: 3
+  backgroundsStr:
+  - Assets/Resources/Textures/BG1.png
+  - Assets/Resources/Textures/BG2.png
+  - Assets/Resources/Textures/BG3.png
+  - Assets/Resources/Textures/BG4.png
+  - Assets/Resources/Textures/BG5.png
+  - Assets/Resources/Textures/BG6.png
+  - Assets/Resources/Textures/BG7.png
+  - Assets/Resources/Textures/BG8.png
+  - Assets/Resources/Textures/BG9.png
+  - Assets/Resources/Textures/BG10.png
+  useImages: 1
+  labMaterial: {fileID: 2100000, guid: 82b388ece78dc5d41a20116a48cd24f5, type: 2}
+  colors:
+  - {r: 0.9254902, g: 0.12156863, b: 0.8784314, a: 1}
+  - {r: 1, g: 0.7607843, b: 0.1882353, a: 1}
+  - {r: 1, g: 0.4392157, b: 0.85882354, a: 1}
+  - {r: 0.4509804, g: 0.8627451, b: 1, a: 1}
+  - {r: 0, g: 0.38431373, b: 0.7921569, a: 1}
+  - {r: 0.29803923, g: 0.9490196, b: 0.5647059, a: 1}
+  - {r: 0.98823535, g: 0.79215693, b: 0.3019608, a: 1}
+  - {r: 0.93333334, g: 0.7176471, b: 0.34117648, a: 1}
+  - {r: 0.70980394, g: 0.909804, b: 0.15294118, a: 1}
+  - {r: 0.45098042, g: 1, b: 0.9607844, a: 1}
+  ballMaterial: {fileID: 2100000, guid: e5ff9c38c3ed7844c8b16f03ecccd44c, type: 2}
+  ballMiddleMaterial: {fileID: 2100000, guid: a6fcf0741bec69745884a0e005a7fa9f, type: 2}
+  ballBigMaterial: {fileID: 2100000, guid: 23b1dcf6f98548a469d3b6f218dcde70, type: 2}
+  ballColors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  ballBigColors:
+  - {r: 0.36078432, g: 0.36078432, b: 0.7372549, a: 1}
+  - {r: 0.9845575, g: 0.6084906, b: 1, a: 1}
+  - {r: 0.42745098, g: 0.6156863, b: 0.49803922, a: 1}
+  - {r: 0.83137256, g: 0.77254903, b: 0.12941177, a: 1}
+  - {r: 0.30588236, g: 0.3764706, b: 1, a: 1}
+  - {r: 0.18039216, g: 0.5764706, b: 0.3137255, a: 1}
+  - {r: 0.8113208, g: 0.8113208, b: 0.8113208, a: 1}
+  ballMiddleColors:
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 0, g: 0.22632885, b: 1, a: 1}
+  - {r: 0, g: 0.509434, b: 0.05655546, a: 1}
+  - {r: 0.63159716, g: 0, b: 0.7075472, a: 1}
+  - {r: 0, g: 0.4010481, b: 0.5471698, a: 1}
+  - {r: 0.5, g: 0.4973333, b: 0, a: 1}
+  gradient1:
+  - {r: 0.13725491, g: 0.5686275, b: 1, a: 1}
+  - {r: 0.31764707, g: 0.13333334, b: 0.72156864, a: 1}
+  - {r: 1, g: 0.8980392, b: 0.8352941, a: 1}
+  - {r: 0.054901965, g: 0.07058824, b: 0.36862746, a: 1}
+  - {r: 0.6509804, g: 0.0627451, b: 0.36862746, a: 1}
+  - {r: 0.8352942, g: 0.20000002, b: 0.13725491, a: 1}
+  - {r: 0.227451, g: 0.21960786, b: 0.59607846, a: 1}
+  gradient2:
+  - {r: 0.5647059, g: 0.7568628, b: 0.9490197, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  gradient3:
+  - {r: 0.7843138, g: 0.8941177, b: 1, a: 1}
+  - {r: 0.7960785, g: 0.54901963, b: 0.96470594, a: 1}
+  - {r: 0.5764706, g: 0.5764706, b: 0.90588236, a: 1}
+  - {r: 0.53333336, g: 0.5921569, b: 0.83921576, a: 1}
+  - {r: 0.98823535, g: 0.5921569, b: 0.8352942, a: 1}
+  - {r: 0.9803922, g: 0.6784314, b: 0.3803922, a: 1}
+  - {r: 1, g: 0.50980395, b: 0.882353, a: 1}
+  fireworks:
+  - {fileID: 21300000, guid: 4b2c59fa6b27155449038922a2fc68e3, type: 3}
+  - {fileID: 21300000, guid: f085a6bf238ada34a94c946da7cf7d47, type: 3}
+  - {fileID: 21300000, guid: a177d480a90611b4f9511c31d9451864, type: 3}
+  capMaterial: {fileID: 2100000, guid: f4dc90e65ba7ce24a8a0c311c4815c1c, type: 2}
+  capOutMaterial: {fileID: 2100000, guid: 89e2170f1d2fd8d4dad636fc1a103e98, type: 2}
+  capColors:
+  - {r: 0.60784316, g: 0, b: 0.57254905, a: 1}
+  - {r: 0.78431374, g: 0.42745098, b: 0.105882354, a: 1}
+  - {r: 0.79607844, g: 0.16078432, b: 0.67058825, a: 1}
+  - {r: 0.15686275, g: 0.5568628, b: 0.8666667, a: 1}
+  - {r: 0.078431375, g: 0.17254902, b: 0.49019608, a: 1}
+  - {r: 0.15619439, g: 0.509434, b: 0.3328142, a: 1}
+  - {r: 0.7647059, g: 0.30980393, b: 0.09019608, a: 1}
+  - {r: 0.7607843, g: 0.4, b: 0.09019608, a: 1}
+  - {r: 0.16470589, g: 0.5294118, b: 0.02745098, a: 1}
+  - {r: 0.101960786, g: 0.54509807, b: 0.69803923, a: 1}
+  capOutColors:
+  - {r: 1, g: 0.95686275, b: 0.3764706, a: 1}
+  - {r: 0, g: 0.4627451, b: 1, a: 1}
+  - {r: 0.2901961, g: 0.7882353, b: 1, a: 1}
+  - {r: 0.7137255, g: 0.91764706, b: 0.7137255, a: 1}
+  - {r: 1, g: 0.8509804, b: 1, a: 1}
+  shadowColors:
+  - {r: 0.60784316, g: 0, b: 0.57254905, a: 1}
+  - {r: 0.9137255, g: 0.3882353, b: 0, a: 1}
+  - {r: 0.7169812, g: 0.1318975, b: 0.60140914, a: 1}
+  - {r: 0.14231044, g: 0.4980563, b: 0.7735849, a: 1}
+  - {r: 0.078431375, g: 0.17254902, b: 0.49019608, a: 1}
+  - {r: 0.12758097, g: 0.4433962, b: 0.2854886, a: 1}
+  - {r: 0.7735849, g: 0.29707462, b: 0.0693307, a: 1}
+  - {r: 0.8301887, g: 0.39907444, b: 0.1527234, a: 1}
+  - {r: 0.15646207, g: 0.4716981, b: 0.037824854, a: 1}
+  - {r: 0.15325737, g: 0.6273859, b: 0.7924528, a: 1}
+  particles:
+  - {fileID: 6369749170102350823, guid: f9886bd61926eca4b9f190a6c6f1e39e, type: 3}
+  - {fileID: 8020929316905932391, guid: e6cb8cd796014f34f83849123f1eee9b, type: 3}
+  - {fileID: 8577256431498528350, guid: 1af5fc4c60df38f479796bbd6102cc26, type: 3}
+  - {fileID: 3847096470981794366, guid: eba2bc81940ee4244a8b4d5de391b185, type: 3}
+  - {fileID: 9214713322915774451, guid: 2b2aef4af4ce4ff4f9252c96f22d1fe5, type: 3}
+  - {fileID: 2199096319009071141, guid: 4b22e7aa851682646a07bdd107849802, type: 3}
+  - {fileID: 8851405399489640016, guid: 3503649746cce444a963da5b9aa97418, type: 3}
+  - {fileID: 8963055285042438695, guid: b196715edad638444b663f943b0d1ec5, type: 3}
+  - {fileID: 3847096470981794366, guid: eba2bc81940ee4244a8b4d5de391b185, type: 3}
+  - {fileID: 6369749170102350823, guid: f9886bd61926eca4b9f190a6c6f1e39e, type: 3}
+  tubeMaterial: {fileID: 2100000, guid: 1c4e53f0dafc04045800897ef390b0ae, type: 2}
+  tubeColors:
+  - {r: 1, g: 0.95686275, b: 0.3764706, a: 1}
+  - {r: 0, g: 0.4627451, b: 1, a: 1}
+  - {r: 0.2901961, g: 0.7882353, b: 1, a: 1}
+  - {r: 0.9725491, g: 0.8078432, b: 0.6039216, a: 1}
+  - {r: 1, g: 0.8509804, b: 1, a: 1}
+  - {r: 0.17254902, g: 0.627451, b: 0.4, a: 1}
+  - {r: 0.5882353, g: 0.1764706, b: 0.027450982, a: 1}
+  - {r: 0.30588236, g: 0.36862746, b: 0.18823531, a: 1}
+  - {r: 0.32156864, g: 0.36078432, b: 0.56078434, a: 1}
+  - {r: 0.098039225, g: 0.5254902, b: 0.5803922, a: 1}
+  contactFx:
+  - {fileID: 5514223146226158396, guid: eb1c0751c2c8f5f48b6ba2e88d3e421c, type: 3}
+  - {fileID: 5514223146226158396, guid: 5cc42b8bc9a3c3d429c253a0a81a5e42, type: 3}
+  - {fileID: 5514223146226158396, guid: eb1c0751c2c8f5f48b6ba2e88d3e421c, type: 3}
+  - {fileID: 5514223146226158396, guid: e4cc8b179d2b79d42a2e522a2f2027da, type: 3}
+  - {fileID: 5514223146226158396, guid: 3364120b65f05474e8d81901fa349a50, type: 3}
+  - {fileID: 5514223146226158396, guid: 3364120b65f05474e8d81901fa349a50, type: 3}
+  - {fileID: 5514223146226158396, guid: 3364120b65f05474e8d81901fa349a50, type: 3}
+  - {fileID: 5514223146226158396, guid: 3364120b65f05474e8d81901fa349a50, type: 3}
+  - {fileID: 5514223146226158396, guid: 3364120b65f05474e8d81901fa349a50, type: 3}
+  - {fileID: 5514223146226158396, guid: 3364120b65f05474e8d81901fa349a50, type: 3}
+  levelThemeOrder: 08000000070000000000000003000000010000000200000006000000050000000900000004000000
+  labPhysMat: {fileID: 13400000, guid: d3f8dcc4c4661424fb71f5bdb35593af, type: 2}
+  backgroundSound:
+  - {fileID: 8300000, guid: 00f37cae3f1956e42a263138e2017134, type: 3}
+  - {fileID: 8300000, guid: ad286f164aa8dd946ba89ad9931e64fa, type: 3}
+  - {fileID: 8300000, guid: f3244a35f1a5b85479b85c953c0c4f0d, type: 3}
+  - {fileID: 8300000, guid: 937f343b8394d8a4a9eed900bdbdc903, type: 3}
+  - {fileID: 8300000, guid: 36c6003723570b341a1863ed03c0e29c, type: 3}
+  - {fileID: 8300000, guid: d77fc7e9cb912e740924b53d3515de25, type: 3}
+  - {fileID: 8300000, guid: 3c217067b102f3f42807e211a40d061f, type: 3}
+  - {fileID: 8300000, guid: 34c0977520bdefc41b4f1ee5fe4f10fc, type: 3}
+  - {fileID: 8300000, guid: 11bb94a708bc57e4db9be5ae65b233ce, type: 3}
+  - {fileID: 8300000, guid: bab2a8deb51057b44af71d8b68b9648f, type: 3}
+  music: {fileID: 8300000, guid: 0948789795d1df34b9e1200315678385, type: 3}
+  rotationSound: {fileID: 8300000, guid: 5d82f4a206c7b5242853ddcbe2d28b50, type: 3}
+  rotationSoundAnglePeriod: 15
+  ballSound: {fileID: 8300000, guid: 8812da9f4fc470c428add14184644903, type: 3}
+  ballPitchGrow: 0.005
+  fruitPitchGrow: 0.005
+  buttonSound: {fileID: 8300000, guid: c7f1c3de1e2da314fb6e198b01f932e3, type: 3}
+  finishSound: {fileID: 8300000, guid: c23f8059e25cc4244b20423dd9584b04, type: 3}
+  ballContactSound: {fileID: 8300000, guid: 96cf09f46dd4cd1408dc8eaebf694ce5, type: 3}
+  ballContactAngle: 45
+  ballContactSpeed: 3
+  wallContactSound: {fileID: 8300000, guid: 2f9cc29f169cb8a4c8a9703dc617e101, type: 3}
